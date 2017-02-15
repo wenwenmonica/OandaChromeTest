@@ -1,0 +1,20 @@
+Objective:
+•	Measure the ability to develop detailed and comprehensive test cases (including corner cases)
+•	Measure test automation capabilities including framework development
+
+Imagine that you're working with the quality assurance team of a popular online foreign exchange trading website and your job is to ensure that one of the pages of the website is functional in all aspects. Please create detailed test cases for validation.
+You will be validating the following page:
+http://www.oanda.com/currency/converter/
+
+
+Note:
+It contains two materials: test plan and partial test code.
+
+For the test code, JUnit, Selenium WebDriver and Chrome Driver are utilized as library.
+
+Since this is a compressed directory from Java Source Directory, before running it:
+1. Please download the latest Selenium library and ChromeDriver.
+2. Please setup the dependencies with the downloaded Selenium WebDriver library and extract ChromeDriver.
+3. Please change the embeded ChromeDriver address in the first line of beforeClass at OandaChromeTestBase.
+
+For the test plan, all the details are documented and examples listed.
